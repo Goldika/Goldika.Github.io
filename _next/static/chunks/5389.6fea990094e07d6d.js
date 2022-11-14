@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[5389],{5389:function(e,s,t){t.r(s),s.default={src:"/_next/static/media/Keshavarzi.5a2eeecc.svg",height:48,width:48}}}]);

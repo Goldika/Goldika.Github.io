@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[6975],{6975:function(c,e,s){s.r(e),e.default={src:"/_next/static/media/Caspian.8cc715c1.svg",height:48,width:48}}}]);

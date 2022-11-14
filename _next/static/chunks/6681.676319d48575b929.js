@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[6681],{6681:function(e,t,c){c.r(t),t.default={src:"/_next/static/media/Saderat.c7f1ec39.svg",height:48,width:48}}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[5999],{5999:function(e,t,s){s.r(t),t.default={src:"/_next/static/media/Refah.db3d97fe.svg",height:48,width:48}}}]);

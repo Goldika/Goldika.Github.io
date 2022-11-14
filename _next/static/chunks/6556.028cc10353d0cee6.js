@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[6556],{6556:function(e,t,a){a.r(t),t.default={src:"/_next/static/media/Ayandeh_Card.331ec5a6.svg",height:48,width:48}}}]);
