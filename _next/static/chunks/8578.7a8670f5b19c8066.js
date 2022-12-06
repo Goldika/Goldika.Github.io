@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8578],{8578:function(e,s,t){t.r(s),s.default={src:"/_next/static/media/Parsian.db0b1394.svg",height:48,width:48}}}]);

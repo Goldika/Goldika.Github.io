@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[487],{487:function(a,e,t){t.r(e),e.default={src:"/_next/static/media/Bank_Markazi.251101a7.svg",height:48,width:48}}}]);

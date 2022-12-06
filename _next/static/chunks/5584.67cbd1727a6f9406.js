@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[5584],{5584:function(e,s,t){t.r(s),s.default={src:"/_next/static/media/Tosee_Taavon.d7bfdbe9.svg",height:48,width:48}}}]);

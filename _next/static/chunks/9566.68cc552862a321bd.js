@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[9566],{9566:function(e,s,t){t.r(s),s.default={src:"/_next/static/media/Pasargad.02e3e794.svg",height:48,width:48}}}]);

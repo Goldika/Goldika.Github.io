@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[7122],{7122:function(e,t,a){a.r(t),t.default={src:"/_next/static/media/Khavar_Mianeh.b095e686.svg",height:48,width:48}}}]);

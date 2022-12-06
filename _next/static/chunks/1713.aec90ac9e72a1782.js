@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[1713],{1713:function(e,t,a){a.r(t),t.default={src:"/_next/static/media/Standard_Chartered.25fea208.svg",height:48,width:48}}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8950],{8950:function(e,t,c){c.r(t),t.default={src:"/_next/static/media/Dey.c61ca943.svg",height:48,width:48}}}]);

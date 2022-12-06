@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8471],{8471:function(e,t,s){s.r(t),t.default={src:"/_next/static/media/Mehr_Iran.1e02d190.svg",height:48,width:48}}}]);

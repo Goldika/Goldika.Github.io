@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[9138],{9138:function(e,t,c){c.r(t),t.default={src:"/_next/static/media/Noor.d4cc219a.svg",height:48,width:48}}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[6550],{6550:function(e,s,t){t.r(s),s.default={src:"/_next/static/media/Taavon_Eslami.b45dd372.svg",height:48,width:48}}}]);

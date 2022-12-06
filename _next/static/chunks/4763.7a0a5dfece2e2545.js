@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[4763],{4763:function(e,s,t){t.r(s),s.default={src:"/_next/static/media/Ansar.3e28c4ed.svg",height:48,width:48}}}]);

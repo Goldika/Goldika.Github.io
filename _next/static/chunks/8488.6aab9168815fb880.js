@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8488],{8488:function(e,t,a){a.r(t),t.default={src:"/_next/static/media/Hekmat_Iranian.6152f67f.svg",height:48,width:48}}}]);
